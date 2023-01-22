@@ -1,1 +1,1 @@
-# InstClone_frontend
+# Instaclone-Frontend
